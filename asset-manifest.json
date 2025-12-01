@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tahos-app/static/css/main.f1871af4.css",
-    "main.js": "/tahos-app/static/js/main.2b97500f.js",
+    "main.js": "/tahos-app/static/js/main.561834be.js",
     "static/css/425.7549bdeb.chunk.css": "/tahos-app/static/css/425.7549bdeb.chunk.css",
     "static/js/425.93f7f111.chunk.js": "/tahos-app/static/js/425.93f7f111.chunk.js",
     "static/css/142.852f7c02.chunk.css": "/tahos-app/static/css/142.852f7c02.chunk.css",
@@ -71,6 +71,6 @@
   },
   "entrypoints": [
     "static/css/main.f1871af4.css",
-    "static/js/main.2b97500f.js"
+    "static/js/main.561834be.js"
   ]
 }
